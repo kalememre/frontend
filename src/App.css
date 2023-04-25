@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.imageBox {
+  box-shadow: 3px 3px 15px #888888;
+}
+
+.avatarBox {
+  background-color: white !important;
+  box-shadow: 1px 1px 1px #ffffff;
+}
